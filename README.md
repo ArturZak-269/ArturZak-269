@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Artur Żak
+- 👋 **Hi, I’m Artur Żak**
 - 👀 My intrests: Sports lover 🏋️‍♂️ | Indoor Climber 🧗 | Cyclist 🚴 | Swimmer 🏊‍♂️ | Yoga 🧘 | Drummer 🥁 | Aspiring Frontend Developer 💻 | Embracing life's journey with passion and curiosity 🚀
 - 🌱 I’m currently learning to become Fronted Developer, so mainly right know I'm learning JavaScript.
 - 💞️ I’m looking to collaborate on ...
